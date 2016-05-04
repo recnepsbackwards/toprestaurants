@@ -1,0 +1,45 @@
+.row {
+  background-color: gray;
+}
+
+.leftcolumn {
+  float: left;
+  background-color: #8cca40;
+  min-width: 200px;
+  border-style: solid;
+}
+
+.rightcolumn {
+  float: right;
+  background-color: #8cca40;
+  min-width: 200px;
+  border-style: solid;
+}
+
+p {
+  max-width: 500px;
+  font-family: 'Raleway', sans-serif;
+}
+
+img {
+  width: 200px;
+  border-radius: 400px
+}
+
+h1 {
+  text-align: center;
+  font-size: 36pt;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #009f3c;
+}
+
+div {
+  margin-bottom: 10px;
+}
