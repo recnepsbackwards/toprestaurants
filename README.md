@@ -1,6 +1,6 @@
 # Top 10 Restaurants Website
 
-Goal:
+#Goal:
 
 To learn responsive web design so that scales down to mobile screen size correctly.
 
